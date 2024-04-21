@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ISRO Satellites</title>
+  <link rel="stylesheet" href="styles/main.css">
+  
+</head>
+
+<body>
+
+
+  <div class="container">
+    <h1>Route</h1>
+    <!-- <div class="response-area">
+    </div> -->
+    <form id="myForm" method="get">
+      <input id="get-space" type="submit" value="Spacecrafts" formaction="/get-spacecrafts">
+      <input id="get-launch" type="submit" value="Launchers" formaction="/get-launchers">
+      <input id="get-satellite" type="submit" value="CustomerSatellites" formaction="get-customer_satellites">
+      <input id="get-cent" type="submit" value="Centers" formaction="/get-centres">
+    </form>
+  </div>
+</body>
+<%- include('partials/footer.ejs') %>
+</html>
