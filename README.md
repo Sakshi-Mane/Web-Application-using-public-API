@@ -1,7 +1,7 @@
 # Public API Project
 
 # Description
-This project is a API web application developed with the public API of Indian Space Research Organisation(ISRO) programmed in Express.js, EJS templating, and CSS for design.Used the JavaScript library 'axios' for making HTTP requests from browser and Node.js for this. Information about satellites, launchers, centers, and customer satellites is available from ISRO.
+This project is a API web application developed with the public API of Indian Space Research Organisation(ISRO) programmed in Express.js, EJS templating, and CSS for design. Used the JavaScript library 'axios' for making HTTP requests from browser and Node.js for this. Information about satellites, launchers, centers, and customer satellites is available from ISRO.
  
 
 # Installations
